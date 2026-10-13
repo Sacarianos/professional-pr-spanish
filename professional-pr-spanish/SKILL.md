@@ -29,7 +29,7 @@ There are two ways to get this wrong:
 
 ## Usually keep in English
 
-Tech: PC, laptop, desktop, mouse, software, app, link, email, password, login, username, Wi-Fi, website, screenshot, dashboard, Zoom, Teams, Excel, PDF, JPEG.
+Tech: PC, laptop, desktop, mouse, software, app, link, email, password, login, username, Wi-Fi, website, screenshot, dashboard, download (hacer download), folder, shared folder, reset (hacer reset), Zoom, Teams, Excel, PDF, JPEG.
 
 Media, design, marketing: media team, source file, placement, layout, mockup, template, branding, flyer, brochure, banner, post, stories, engagement, influencer, webinar.
 

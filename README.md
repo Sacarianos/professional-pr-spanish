@@ -17,17 +17,25 @@ This skill aims for the middle: clean, professional Spanish that keeps the Engli
 
 **English:**
 
-> Our media team is kindly requesting both the jpeg file and source file to ensure proper placement in the program. Let me know how else I can help.
+> Hi team,
+> Before Friday's meeting, please download the new template from the shared folder and save a copy on your PC. If the link doesn't work, send me a screenshot of the error and I'll reset your password.
+> Thanks,
 
 **Typical LLM translation:**
 
-> Nuestro equipo de medios le solicita amablemente tanto el archivo JPEG como el archivo fuente para asegurar la colocación correcta en el programa. Déjeme saber en qué más le puedo ayudar.
+> Hola, equipo:
+> Antes de la reunión del viernes, por favor descarguen la nueva plantilla de la carpeta compartida y guarden una copia en su ordenador. Si el enlace no funciona, envíenme una captura de pantalla del error y restableceré su contraseña.
+> Gracias,
+
+Correct Spanish, but "ordenador", "enlace", "captura de pantalla", and "contraseña" sound like Spain or a software manual. Nobody in a PR office talks like that.
 
 **With this skill:**
 
-> Nuestro media team le solicita amablemente tanto el archivo JPEG como el source file para asegurar el placement correcto en el programa. Déjeme saber en qué más le puedo ayudar.
+> Hola, equipo:
+> Antes del meeting del viernes, por favor hagan download del nuevo template que está en el shared folder y guarden una copia en su PC. Si el link no funciona, envíenme un screenshot del error y les hago reset del password.
+> Gracias,
 >
-> Términos en inglés: media team, source file, placement
+> Términos en inglés: meeting, download, template, shared folder, PC, link, screenshot, reset, password
 
 After each translation, it lists the English terms it kept, so you can swap any you don't want.
 
